@@ -1,0 +1,8 @@
+h1,h2 {
+    text-align: center;
+}
+
+body {
+    background: linear-gradient(maroon, white);
+    background-repeat: no-repeat;
+}
