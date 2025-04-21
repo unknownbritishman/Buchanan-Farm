@@ -6,3 +6,7 @@ body {
     background: linear-gradient(maroon, white);
     background-repeat: no-repeat;
 }
+
+.welcome {
+    color: black;
+}
