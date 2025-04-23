@@ -13,11 +13,15 @@ body {
 }
 
 .welcome {
-    font-size: larger;
+    font-size: xx-large;
+}
+
+.welcome2 {
+    font-size: x-large;
 }
 
 .paragraph {
-    font-size: larger;
+    font-size: x-large;
     color: black;
     width: 600px;
     height: 100px;
@@ -30,4 +34,14 @@ body {
     float: right;
     position: relative;
     bottom: 200px;
+}
+
+.activities {
+    position: relative; top: 165px;
+    font-size: xx-large;
+}
+
+.activities2 {
+    position: relative; top: 145px;
+    font-size: x-large;
 }
