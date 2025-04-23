@@ -1,5 +1,6 @@
 h1,h2 {
     text-align: center;
+    font-size: xx-large;
 }
 
 body {
@@ -7,6 +8,26 @@ body {
     background-repeat: no-repeat;
 }
 
+*{
+    font-style: italic;
+}
+
 .welcome {
+    font-size: larger;
+}
+
+.paragraph {
+    font-size: larger;
     color: black;
+    width: 600px;
+    height: 100px;
+    padding: 10px;
+    border: 5px black;
+    margin: 0;
+}
+
+.plowday {
+    float: right;
+    position: relative;
+    bottom: 200px;
 }
