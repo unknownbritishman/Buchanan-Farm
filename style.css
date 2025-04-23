@@ -10,6 +10,8 @@ body {
 
 *{
     font-style: italic;
+    box-sizing: border-box;
+  margin: 0;
 }
 
 .welcome {
@@ -55,25 +57,8 @@ body {
 }
 
 
-/* 
-1. set everythaing to border-box
-2. remove the defalut margns
- */
- *{
-  box-sizing: border-box;
-  margin: 0;
- }
- /* 
- 3. beter fount 
- 4. better line height
- */
- body{
-  font-family: system-ui;
-  line-height:1.7;
- }
- /* 
- 5. improve image and video
-  */
+
+ 
   img, picture, video {
     display: block;
     /* keep only as wide as the parent element */
