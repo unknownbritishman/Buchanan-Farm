@@ -28,6 +28,7 @@ body {
     padding: 10px;
     border: 5px black;
     margin: 0;
+    font-weight: bold;
 }
 
 .plowday {
