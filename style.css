@@ -10,8 +10,6 @@ body {
 
 *{
     font-style: italic;
-    box-sizing: border-box;
-  margin: 0;
 }
 
 .welcome {
@@ -55,45 +53,3 @@ body {
     font-weight: bold;
     font-size: larger;
 }
-
-
-/* 
-1. set everythaing to border-box
-2. remove the defalut margns
- 
- *{
-  box-sizing: border-box;
-  margin: 0;
- }
- 
- 3. beter fount 
- 4. better line height
- 
- body{
-  font-family: system-ui;
-  line-height:1.7;
- }
- 
- 5. improve image and video
-  
-  img, picture, video {
-    display: block;
-     keep only as wide as the parent element 
-    max-width: 100%;
-  }
-
- 6. reset forms, buttons, and other imputs
-  
-  input
-  button
-  textarea
-  select{
-    font: inherit;
-  }
-  
-  7. prevent overflow on text
- 
- p, h1, h2, h3, h4, h5, h6 {
-  overflow-wrap:break-word ;
- } 
-*/ 
