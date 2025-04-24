@@ -3,6 +3,15 @@ h1,h2 {
     font-size: xx-large;
 }
 
+.logo {
+    width: 1358px;
+    height: 250px;
+}
+
+.part1 {
+    bottom: 25px;
+}
+
 body {
     background: linear-gradient(maroon, white);
     background-repeat: no-repeat;
@@ -52,4 +61,30 @@ body {
     position: relative; top: 140px;
     font-weight: bold;
     font-size: larger;
+}
+
+.activitiespic {
+    position: relative; bottom: 175px;
+}
+
+.projects {
+    float: right;
+    position: relative;
+    bottom: 175px;
+    right: 125px;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.projects2 {
+    width: 600px;
+    height: 100px;
+    padding: 10px;
+    border: 5px black;
+    margin: 0;
+    float: right;
+    position: relative;
+    font-size: x-large;
+    bottom: 1110px;
+    color: black;
 }
